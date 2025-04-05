@@ -1,0 +1,15 @@
+*   b1643a6 (HEAD -> master, origin/master) Merge branch 'master' of https://github.com/aaaa123223/SI_2025_lab1_233241
+|\
+| *   16513f7 Merge pull request #19 from aaaa123223/11-list-tasks-sorted-by-name
+| |\
+| | * 9ca7c7f (origin/11-list-tasks-sorted-by-name, 11-list-tasks-sorted-by-name) List tasks sorted by name implementation
+| * |   73ba9e1 Merge pull request #18 from aaaa123223/10-find-all-completed-tasks
+| |\ \
+| | |/
+| |/|
+| | * 7a3ad36 (origin/10-find-all-completed-tasks, 10-find-all-completed-tasks) Find all completed tasks implementation
+| |/
+* / 2ec60ef (origin/9-remove-a-task-by-name, 9-remove-a-task-by-name) Remove a task by name implementation
+|/
+* eb316b9 Add starter code
+* 603e8a0 Initial commit
